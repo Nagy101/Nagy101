@@ -94,6 +94,5 @@
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohamedNagy/MohamedNagy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/SobihMohamed/SobihMohamed/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
