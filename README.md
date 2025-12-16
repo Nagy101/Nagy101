@@ -9,7 +9,7 @@
 &nbsp;🌱 I’m currently deepening my skills in API development, system design, and microservices.\
 &nbsp;🎨 I also have a good eye for UI/UX and enjoy crafting clean and modern user interfaces.\
 &nbsp;💬 Feel free to reach out for collaboration, freelancing opportunities, or any interesting tech discussion.\
-✉️ You can contact me at **nagynady1976@gmail.com**\
+✉️ You can contact me at **nagynady1976@gmail.com**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
