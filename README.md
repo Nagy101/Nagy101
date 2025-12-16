@@ -73,3 +73,27 @@
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%2300f.svg?style=for-the-badge&logo=diagram&logoColor=white)&nbsp;
 ![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-%236DB33F.svg?style=for-the-badge&logo=stackshare&logoColor=white)&nbsp;
 ![Microservices](https://img.shields.io/badge/Microservices-%2300599C.svg?style=for-the-badge&logo=network&logoColor=white)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamed-nagy-36aa4b318/" target="_blank">
+  <img src="https://img.shields.io/badge/-Mohamed%20Nagy-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:nagynady1976@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-nagynady1976@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://wa.me/201211961909" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/mohamed.nagy.846383" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+</a>
+</p>
+
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohamedNagy/MohamedNagy/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
